@@ -1,2 +1,2 @@
-# PLT
-Programming Language Translation - Faculty of Electrical Engineering and Computing
+# Programming Language Translation
+Faculty of Electrical Engineering and Computing
