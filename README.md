@@ -32,6 +32,7 @@ function main() {
     return 0;
 }
 ```
+Stored in: [plt.c](plt.c)
 
 Listing1: Example program in PLT that prints out primes up to some upper limit.
 
@@ -77,6 +78,8 @@ textbook.
 Your work will be evaluated by hand on several example programs, and you will be expected to be
 able to answer questions about the areas of lexical analysis that were covered in the assignment and
 also to explain the lexer rules you wrote.
+
+### Solution: [task1.py](task1.py)
 
 ---
 
